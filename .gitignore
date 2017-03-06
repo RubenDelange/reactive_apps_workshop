@@ -8,6 +8,7 @@ typings
 npm-debug.log
 reports
 out_aot
+out_aot_ts
 *.ngfactory.ts
 out_es2015
 out_treeshaked
